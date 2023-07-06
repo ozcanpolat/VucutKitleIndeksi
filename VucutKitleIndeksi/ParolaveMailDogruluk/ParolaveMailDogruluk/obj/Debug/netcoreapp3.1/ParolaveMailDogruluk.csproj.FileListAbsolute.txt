@@ -1,0 +1,14 @@
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\ParolaveMailDogruluk\ParolaveMailDogruluk\bin\Debug\netcoreapp3.1\ParolaveMailDogruluk.exe
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\ParolaveMailDogruluk\ParolaveMailDogruluk\bin\Debug\netcoreapp3.1\ParolaveMailDogruluk.deps.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\ParolaveMailDogruluk\ParolaveMailDogruluk\bin\Debug\netcoreapp3.1\ParolaveMailDogruluk.runtimeconfig.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\ParolaveMailDogruluk\ParolaveMailDogruluk\bin\Debug\netcoreapp3.1\ParolaveMailDogruluk.runtimeconfig.dev.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\ParolaveMailDogruluk\ParolaveMailDogruluk\bin\Debug\netcoreapp3.1\ParolaveMailDogruluk.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\ParolaveMailDogruluk\ParolaveMailDogruluk\bin\Debug\netcoreapp3.1\ParolaveMailDogruluk.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\ParolaveMailDogruluk\ParolaveMailDogruluk\obj\Debug\netcoreapp3.1\ParolaveMailDogruluk.csproj.AssemblyReference.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\ParolaveMailDogruluk\ParolaveMailDogruluk\obj\Debug\netcoreapp3.1\ParolaveMailDogruluk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\ParolaveMailDogruluk\ParolaveMailDogruluk\obj\Debug\netcoreapp3.1\ParolaveMailDogruluk.AssemblyInfoInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\ParolaveMailDogruluk\ParolaveMailDogruluk\obj\Debug\netcoreapp3.1\ParolaveMailDogruluk.AssemblyInfo.cs
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\ParolaveMailDogruluk\ParolaveMailDogruluk\obj\Debug\netcoreapp3.1\ParolaveMailDogruluk.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\ParolaveMailDogruluk\ParolaveMailDogruluk\obj\Debug\netcoreapp3.1\ParolaveMailDogruluk.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\ParolaveMailDogruluk\ParolaveMailDogruluk\obj\Debug\netcoreapp3.1\ParolaveMailDogruluk.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\ParolaveMailDogruluk\ParolaveMailDogruluk\obj\Debug\netcoreapp3.1\ParolaveMailDogruluk.genruntimeconfig.cache

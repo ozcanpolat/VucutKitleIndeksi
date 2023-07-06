@@ -1,0 +1,14 @@
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\VucutKitleIndeksi\VucutKitleIndeksi\bin\Debug\netcoreapp3.1\VucutKitleIndeksi.exe
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\VucutKitleIndeksi\VucutKitleIndeksi\bin\Debug\netcoreapp3.1\VucutKitleIndeksi.deps.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\VucutKitleIndeksi\VucutKitleIndeksi\bin\Debug\netcoreapp3.1\VucutKitleIndeksi.runtimeconfig.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\VucutKitleIndeksi\VucutKitleIndeksi\bin\Debug\netcoreapp3.1\VucutKitleIndeksi.runtimeconfig.dev.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\VucutKitleIndeksi\VucutKitleIndeksi\bin\Debug\netcoreapp3.1\VucutKitleIndeksi.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\VucutKitleIndeksi\VucutKitleIndeksi\bin\Debug\netcoreapp3.1\VucutKitleIndeksi.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\VucutKitleIndeksi\VucutKitleIndeksi\obj\Debug\netcoreapp3.1\VucutKitleIndeksi.csproj.AssemblyReference.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\VucutKitleIndeksi\VucutKitleIndeksi\obj\Debug\netcoreapp3.1\VucutKitleIndeksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\VucutKitleIndeksi\VucutKitleIndeksi\obj\Debug\netcoreapp3.1\VucutKitleIndeksi.AssemblyInfoInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\VucutKitleIndeksi\VucutKitleIndeksi\obj\Debug\netcoreapp3.1\VucutKitleIndeksi.AssemblyInfo.cs
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\VucutKitleIndeksi\VucutKitleIndeksi\obj\Debug\netcoreapp3.1\VucutKitleIndeksi.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\VucutKitleIndeksi\VucutKitleIndeksi\obj\Debug\netcoreapp3.1\VucutKitleIndeksi.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\VucutKitleIndeksi\VucutKitleIndeksi\obj\Debug\netcoreapp3.1\VucutKitleIndeksi.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\VucutKitleIndeksi\VucutKitleIndeksi\obj\Debug\netcoreapp3.1\VucutKitleIndeksi.genruntimeconfig.cache

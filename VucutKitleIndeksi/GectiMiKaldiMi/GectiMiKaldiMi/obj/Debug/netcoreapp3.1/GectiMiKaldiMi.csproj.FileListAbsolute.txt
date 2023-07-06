@@ -1,0 +1,14 @@
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\GectiMiKaldiMi\GectiMiKaldiMi\bin\Debug\netcoreapp3.1\GectiMiKaldiMi.exe
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\GectiMiKaldiMi\GectiMiKaldiMi\bin\Debug\netcoreapp3.1\GectiMiKaldiMi.deps.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\GectiMiKaldiMi\GectiMiKaldiMi\bin\Debug\netcoreapp3.1\GectiMiKaldiMi.runtimeconfig.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\GectiMiKaldiMi\GectiMiKaldiMi\bin\Debug\netcoreapp3.1\GectiMiKaldiMi.runtimeconfig.dev.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\GectiMiKaldiMi\GectiMiKaldiMi\bin\Debug\netcoreapp3.1\GectiMiKaldiMi.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\GectiMiKaldiMi\GectiMiKaldiMi\bin\Debug\netcoreapp3.1\GectiMiKaldiMi.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\GectiMiKaldiMi\GectiMiKaldiMi\obj\Debug\netcoreapp3.1\GectiMiKaldiMi.csproj.AssemblyReference.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\GectiMiKaldiMi\GectiMiKaldiMi\obj\Debug\netcoreapp3.1\GectiMiKaldiMi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\GectiMiKaldiMi\GectiMiKaldiMi\obj\Debug\netcoreapp3.1\GectiMiKaldiMi.AssemblyInfoInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\GectiMiKaldiMi\GectiMiKaldiMi\obj\Debug\netcoreapp3.1\GectiMiKaldiMi.AssemblyInfo.cs
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\GectiMiKaldiMi\GectiMiKaldiMi\obj\Debug\netcoreapp3.1\GectiMiKaldiMi.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\GectiMiKaldiMi\GectiMiKaldiMi\obj\Debug\netcoreapp3.1\GectiMiKaldiMi.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\GectiMiKaldiMi\GectiMiKaldiMi\obj\Debug\netcoreapp3.1\GectiMiKaldiMi.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\GectiMiKaldiMi\GectiMiKaldiMi\obj\Debug\netcoreapp3.1\GectiMiKaldiMi.genruntimeconfig.cache
